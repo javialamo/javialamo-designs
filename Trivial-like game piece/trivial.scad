@@ -1,3 +1,4 @@
+//Trivial´like game piece
 difference(){
 cylinder(r=25,h=10,$fn=200);
 
